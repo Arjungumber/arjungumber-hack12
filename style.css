@@ -1,0 +1,11 @@
+header.h1{
+    background-color: aquamarine;
+    padding: 5px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+nav{
+    background-color: aliceblue;
+    color: aquamarine;
+}
